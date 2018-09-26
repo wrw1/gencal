@@ -5,7 +5,7 @@ Laser engraver. This gcode is used to test to generate the power and
 speed settings for a Laser engraver project. It can also be used in the
 XY calabration setting of the Laser engraver.
 
-! (https://github.com/wrw1/gencal/blob/master/Icons/mainWindow.gif) "GenCal Main Window"
+![GenCal Main Window](https://github.com/wrw1/gencal/blob/master/Icons/mainWindow.gif)
 
 To run it, navigate to the directory
 *containing* "gencal.py", and run:
