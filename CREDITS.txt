@@ -1,0 +1,12 @@
+
+Creator Wayne Wilcox
+Gencal was orginally written in perl-tk and was meant to be just a little script
+that could be use to quickly generate gcode for my laser projects. As the
+script grew I decided that others might have a use for it too. So I decided to
+port it the newer and more popular lanuage python-tk. This is my first python
+project and it borrows structure and code from the python 'IDLE' project.
+
+For additional details refer to NEWS.txt and TODO.txt.
+
+
+

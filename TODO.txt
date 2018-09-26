@@ -1,0 +1,12 @@
+Original Gencal todo:
+============================================
+TO DO:
+- add user specified gcode commands to 'common' group for Laser on, off,
+  and power
+- add the ability to edit the gcode 'preamble' and 'posamble' in the
+  'common' group
+- eliminate the the need to convert help.md to help.html by changing the
+  HTML parser in help.py to do Markdown
+
+Structural problems:
+- restructure the GUI variables into a dictionary
